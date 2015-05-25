@@ -1,0 +1,15 @@
+{
+  "name": "material-colors.css",
+  "version": "1.0.0",
+  "main": "./dist/material-colors.min.css",
+  "description": "Material Design Palette Colors",
+  "keywords": [
+    "css"
+  ],
+  "ignore": [
+    ".*",
+    "app",
+	"*.png",
+    "*.md"
+  ]
+}
