@@ -2,6 +2,9 @@
 
 `material-design.css` bring all material design palette colors to your text, background and border.
 
+##Require
+Angular, UI Bootstrap, Bootstrap (CSS), Font-Awesome
+
 ##Usage
 To use material-design.css in your website, simply drop the stylesheet into your document's `<head>`, and use next template. That's it!
 
@@ -83,9 +86,6 @@ angular.module('materialDesign', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSaniti
 );
 ```
 
-##Demo require
-Angular, UI Bootstrap, Bootstrap (CSS), Font-Awesome
-
 ##Bower
 
 Add dependency in your bower.json : 
@@ -98,7 +98,7 @@ Or do `bower install material-design.css --save`.
 
 ## Palette of colors
 
-Combine with [material-colors.css][https://github.com/YoannB/material-colors.css] to use the palette of Material Design Colors :
+Combine with [material-colors.css](https://github.com/YoannB/material-colors.css) to use the palette of Material Design Colors :
 
 ![palette](./palette.png)
 
