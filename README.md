@@ -1,6 +1,6 @@
 #material-design.css
 
-`material-design.css` bring all material design palette colors to your text, background and border.
+`material-design.css` bring you Material Design with Angular.
 
 ##Require
 Angular, UI Bootstrap, Bootstrap (CSS), Font-Awesome

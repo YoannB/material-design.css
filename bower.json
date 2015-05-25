@@ -1,8 +1,8 @@
 {
-  "name": "material-colors.css",
+  "name": "material-design.css",
   "version": "1.0.0",
-  "main": "./dist/material-colors.min.css",
-  "description": "Material Design Palette Colors",
+  "main": "./dist/material-design.min.css",
+  "description": "Material Design with Angular",
   "keywords": [
     "css"
   ],
